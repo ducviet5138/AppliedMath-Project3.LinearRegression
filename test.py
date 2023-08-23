@@ -1,2 +1,0 @@
-model3 = ["10percentage", "12percentage", "collegeGPA", "English", "Logical", "Quant", "Domain", "ComputerProgramming", "conscientiousness", "agreeableness", "extraversion", "nueroticism", "openess_to_experience"]
-print(len(model3))
